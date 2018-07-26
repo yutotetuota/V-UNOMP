@@ -15,9 +15,9 @@
 	"multipool",
 	"multicoin"
     ],
-    "homepage": "https://github.com/UNOMP/unified-node-open-mining-portal",
+    "homepage": "https://github.com/yutotetuota/V-UNOMP",
     "bugs": {
-        "url": "https://github.com/UNOMP/unified-node-open-mining-portal/issues"
+        "url": "https://github.com/yutotetuota/V-UNOMP/issues"
     },
     "license": "GPL-2.0",
     "contributors": [
@@ -36,10 +36,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/UNOMP/unified-node-open-mining-portal.git"
+        "url": "https://github.com/yutotetuota/V-UNOMP.git"
     },
     "dependencies": {
-        "merged-pooler": "git://github.com/UNOMP/node-merged-pool",
+        "merged-pooler": "git://github.com/yutotetuota/node-merged-pool-vips",
         "dateformat": "1.0.12",
 	"log4js": "0.6.31",
 	"bitcoin": "3.0.1",
